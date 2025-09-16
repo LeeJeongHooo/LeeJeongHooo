@@ -1,6 +1,7 @@
 ## 안녕하세요<br/>프론트엔드 개발자 이정호입니다. 🤔
 
 ### Experiences
+- Depromeet Core WEB 파트 (2025.06 ~ )
 - Depromeet 15기 WEB 파트 (2024.06 ~ 2024.09)
 - 멋쟁이사자처럼 11기 WEB 파트 (2023.03 ~ 2023.12)
 - 타입 스크립트 [타입 넌 내 타입](https://ridibooks.com/books/2773000062?_s=search&_q=%ED%83%80%EC%9E%85&_rdt_sid=search&_rdt_idx=6) 책 집필 (2022.09 ~ 2022.11)
